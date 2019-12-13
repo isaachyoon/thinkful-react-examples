@@ -1,0 +1,78 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<PersonList /> matches snapshot 1`] = `
+<div
+  className="personList"
+>
+  <h3>
+    Person List
+  </h3>
+  <div
+    className="container"
+  >
+    <div
+      className="person"
+    >
+      <p>
+        001
+      </p>
+      <p>
+        Rich
+      </p>
+    </div>
+    <div
+      className="person"
+    >
+      <p>
+        002
+      </p>
+      <p>
+        Joe
+      </p>
+    </div>
+    <div
+      className="person"
+    >
+      <p>
+        003
+      </p>
+      <p>
+        Chris
+      </p>
+    </div>
+    <div
+      className="person"
+    >
+      <p>
+        004
+      </p>
+      <p>
+        Tauhida
+      </p>
+    </div>
+    <div
+      className="person"
+    >
+      <p>
+        005
+      </p>
+      <p>
+        Elias
+      </p>
+    </div>
+    <div
+      className="person"
+    >
+      <p>
+        006
+      </p>
+      <p>
+        Rita
+      </p>
+    </div>
+  </div>
+  <div>
+    hi
+  </div>
+</div>
+`;
